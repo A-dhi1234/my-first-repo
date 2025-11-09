@@ -1,2 +1,2 @@
 # my-first-repo
-adhi.
+I am learning Github!.
